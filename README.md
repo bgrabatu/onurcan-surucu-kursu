@@ -2,7 +2,7 @@
 
 <p><strong style="color:#e74c3c;">Proje:</strong> Onurcan Sürücü Kursu Web Sitesi</p>
 <p><strong style="color:#e74c3c;">Müşteri:</strong> Onurcan Sürücü Kursu</p>
-<p>2005 yılından bu yana İstanbul Kartal'da hizmet veren Onurcan Sürücü Kursu, sürücü adaylarına en kaliteli eğitimi sunmayı amaçlayan köklü bir kurumdur.</p>
+<p>2005 yılından bu yana İstanbul Kartal'da hizmet veren Onurcan Sürücü Kursu, sürücü adaylarına en kaliteli eğitimi sunmayı amaçlayan köklü bir kurumdur. Kuruluşumuzun ilk gününden itibaren, sürücü eğitimi alanında yenilikçi ve modern yaklaşımları benimseyerek sektörde fark yaratmayı hedefledik. Bu doğrultuda, eğitmen kadromuzu alanında uzman, deneyimli ve pedagojik formasyon sahibi profesyonellerden oluşturduk.</p>
 <p><strong style="color:#e74c3c;">Hedef:</strong> Kullanıcı dostu, SEO uyumlu, modern ve güvenilir bir web sitesi tasarlamak</p>
 
 <h2 style="color:#2ecc71;">Proje Özeti</h2>
