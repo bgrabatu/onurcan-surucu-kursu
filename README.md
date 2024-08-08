@@ -24,9 +24,6 @@
 
 <img src="images/desktop-three.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
-<img src="images/tablet.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;  margin-top: 20px;">
-
-<img src="images/mobile.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;  margin-top: 20px;">
 
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
