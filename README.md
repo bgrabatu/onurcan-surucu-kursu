@@ -1,7 +1,8 @@
 <h1 style="color:#3498db;">🚗 Onurcan Sürücü Kursu Web Sitesi</h1>
 
 <p><strong style="color:#e74c3c;">Proje:</strong> Onurcan Sürücü Kursu Web Sitesi</p>
-<p><strong style="color:#e74c3c;">Müşteri:</strong> Onurcan Sürücü Kursu (2005'ten beri İstanbul Kartal'da hizmet veren köklü bir sürücü kursu)</p>
+<p><strong style="color:#e74c3c;">Müşteri:</strong> Onurcan Sürücü Kursu</p>
+<p>2005 yılından bu yana İstanbul Kartal'da hizmet veren Onurcan Sürücü Kursu, sürücü adaylarına en kaliteli eğitimi sunmayı amaçlayan köklü bir kurumdur.</p>
 <p><strong style="color:#e74c3c;">Hedef:</strong> Kullanıcı dostu, SEO uyumlu, modern ve güvenilir bir web sitesi tasarlamak</p>
 
 <h2 style="color:#2ecc71;">Proje Özeti</h2>
@@ -33,6 +34,6 @@
 <p>Bu proje, müşteri talebi doğrultusunda özel olarak geliştirildiği için kaynak kodları bu depoda paylaşılmamaktadır. Ancak proje hakkında daha fazla bilgi almak veya benzer bir çalışma talep etmek isterseniz, benimle iletişime geçebilirsiniz.</p>
 
 <h2 style="color:#2ecc71;">İletişim</h2>
-<p>Bu projeyle ilgili detaylar veya yeni projeler hakkında bilgi almak için <a href="mailto:bugrabatuhanbasar@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
+<p>Bu projeyle ilgili detaylar veya yeni projeler hakkında bilgi almak için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
 
 <p><em>Bu proje, Onurcan Sürücü Kursu'nun dijital dünyada daha görünür olmasını sağlamak için tasarlanmıştır.</em></p>
