@@ -18,7 +18,7 @@
 <h2 style="color:#2ecc71;">Görseller</h2>
 <p>Proje hakkında daha fazla bilgi edinmek için aşağıdaki görselleri inceleyebilirsiniz:</p>
 <!-- Görsel 1 -->
-<img src="https://www.ornek-domein.com/gorsel1.jpg" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
+<img src="images/desktop.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
 <!-- Görsel 2 -->
 <img src="https://www.ornek-domein.com/gorsel2.jpg" alt="Websitesi İletişim Sayfası" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
