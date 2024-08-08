@@ -27,7 +27,7 @@
 
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
-<p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
+<p>Projeyi canlı olarak görmek için <a href="https://onurcansurucukursu.com/" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
 
 <h2 style="color:#2ecc71;">Notlar</h2>
 <p>Bu proje, müşteri talebi doğrultusunda özel olarak geliştirildiği için kaynak kodları bu depoda paylaşılmamaktadır. Ancak proje hakkında daha fazla bilgi almak veya benzer bir çalışma talep etmek isterseniz, benimle iletişime geçebilirsiniz.</p>
