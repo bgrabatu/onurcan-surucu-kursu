@@ -20,7 +20,14 @@
 <!-- Görsel 1 -->
 <img src="images/desktop.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%;">
 <!-- Görsel 2 -->
-<img src="images/desktop-two.png" alt="Websitesi İletişim Sayfası" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+<img src="images/desktop-two.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+
+<img src="images/desktop-three.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+
+<img src="images/tablet.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+
+<img src="images/mobile.png" alt="Websitesi Ana Sayfa" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
+
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
 <p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
